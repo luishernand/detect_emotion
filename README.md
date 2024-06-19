@@ -16,6 +16,6 @@ Analiza palabras, tono y contexto para reconocer emociones y comentarios ofensiv
 ![APP](https://github.com/luishernand/detect_emotion/blob/main/streamlit%20capture.JPG)
 
 ### RECURSOS 
-[APP](https://detectemotion.streamlit.app/)    
-[DETECT EMOTION](https://nbviewer.org/github/luishernand/detect_emotion/blob/main/Text_Analysis_Sentimiento.ipynb)
+1. [APP](https://detectemotion.streamlit.app/)    
+1. [DETECT EMOTION](https://nbviewer.org/github/luishernand/detect_emotion/blob/main/Text_Analysis_Sentimiento.ipynb)
 
